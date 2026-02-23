@@ -1,0 +1,42 @@
+        this.allEpisodes = [
+            {
+                id: 1,
+                name: 'Harry Potter and the Philosopher’s Stone',
+                featured: false,
+            },
+            {
+                id: 2,
+                name: 'Harry Potter and the Chamber of Secrets',
+                featured: false,
+            },
+            {
+                id: 3,
+                name: 'Harry Potter and the Prisoner of Azkaban',
+                featured: false,
+            },
+            {
+                id: 4,
+                name: 'Harry Potter and the Goblet of Fire',
+                featured: false,
+            },
+            {
+                id: 5,
+                name: 'Harry Potter and the Order of the Phoenix',
+                featured: false,
+            },
+            {
+                id: 6,
+                name: 'Harry Potter and the Half-Blood Prince',
+                featured: false,
+            },
+            {
+                id: 7,
+                name: 'Harry Potter and the Deathly Hallows – Part 1',
+                featured: true,
+            },
+            {
+                id: 8,
+                name: 'Harry Potter and the Deathly Hallows – Part 2',
+                featured: true,
+            },
+        ];
