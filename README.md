@@ -15,7 +15,12 @@ Data resets when the server restarts.
 - Create new episode
 - Update existing episode
 - Delete episode
-- Request validation using class-validator
+- Request parameter validation using 'class-validator' Package
+
+## 🔐 Security (Guards used)
+
+- All request should use X-API-KEY in header to access the Endpoints
+  (X-API-KEY: 123456)
 
 ---
 
